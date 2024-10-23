@@ -1,6 +1,6 @@
 # Projetos de Machine Learning e Ciência de Dados
 
-Este repositório contém links para meus projetos individuais de Machine Learning e Ciência de Dados. Abaixo estão os repositórios e suas descrições.
+Este repositório contém links para meus projetos individuais de Machine Learning e Ciência de Dados.
 
 ## Repositórios
 
