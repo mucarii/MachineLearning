@@ -17,4 +17,5 @@ Este repositório contém links para meus projetos individuais de Machine Learni
 - [store-sales-analysis](https://github.com/mucarii/store-sales-analysis)
 - [treinamentoNaoSupervisionado](https://github.com/mucarii/TreinamentoNaoSupervisionado)
 - [treinamentoSupervisionado](https://github.com/mucarii/treinamentoSupervisionado)
+- [Titatnic Competition Kaggle](https://github.com/mucarii/Titanic-kaggle_competition)
 
