@@ -1,6 +1,18 @@
 # Projetos de Machine Learning e Ciência de Dados
 
-Este repositório contém links para meus projetos individuais de Machine Learning e Ciência de Dados. Cada projeto aborda diferentes aspectos e técnicas na área, permitindo uma compreensão mais profunda das metodologias de análise e modelagem de dados.
+Bem-vindo ao meu repositório de projetos de Machine Learning e Ciência de Dados! Aqui você encontrará uma coleção de projetos que abrangem diversas técnicas e metodologias, cada um focado em resolver problemas do mundo real ou explorar dados de maneiras interessantes.
+
+## Tecnologias Utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+- LightFM
+- TextBlob
+- e muitas outras...
 
 ## Repositórios
 
@@ -24,3 +36,14 @@ Este repositório contém links para meus projetos individuais de Machine Learni
 - [Deep Dream](https://github.com/mucarii/Deep-Dream): Aplicação do algoritmo Deep Dream para gerar imagens psicodélicas a partir de uma imagem base.
 - [Algoritmos Genéticos](https://github.com/mucarii/Genetic-Algorithms): Implementação de algoritmos genéticos para otimização de problemas complexos.
 - [Classificação com Decision Tree](https://github.com/mucarii/DecisionTree): Implementação de um classificador baseado em árvores de decisão para análise de dados.
+
+## Como Contribuir
+
+Se você tiver sugestões, melhorias ou correções, fique à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é bem-vinda!
+
+## Contato
+
+Se você deseja discutir sobre um projeto, colaborar ou tem alguma dúvida, sinta-se à vontade para entrar em contato comigo:
+
+- Email: murilo.l.calore.r@gmail.com
+- LinkedIn: [Murilo Calore](https://www.linkedin.com/in/murilo-calore/)
